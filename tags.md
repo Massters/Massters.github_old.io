@@ -14,6 +14,7 @@ header-img: "img/semantic.jpg"
 
 ##基因列表
 
+数据结构
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
