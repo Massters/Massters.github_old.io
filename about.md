@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
-header-img: "img/green.jpg"
+description: "记录一下学习过程~ " 
+header-img: "img/blue.jpg"
 ---
 
 自我介绍。
