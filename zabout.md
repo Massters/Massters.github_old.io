@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "记录一下学习过程~ " 
-header-img: "horizontal.png"
+header-img: "img/horizontal.png"
 ---
 ## 我看似穷途末路，却道似苦尽甘来OvO~
 
